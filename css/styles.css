@@ -10878,23 +10878,6 @@ p {
   font-weight: 100;
 }
 
-.section-heading {
-  text-align: center;
-}
-
-.section-heading-upper,
-.section-heading-lower {
-  display: block;
-  font-size: 2rem; /* Adjust the font size as needed */
-}
-
-@media (max-width: 576px) {
-  .section-heading-upper,
-  .section-heading-lower {
-      font-size: 1.5rem; /* Smaller font size for mobile devices */
-  }
-}
-
 .bg-faded {
   background-color: #ffffff;
 }
